@@ -50,7 +50,7 @@ public class PlatformerControllerCSharp : MonoBehaviour {
 		Spawn();
 	}
 
-	void Spawn() {
+	public void Spawn() {
 		// reset character speed
 		movement.verticalSpeed = 0.0f;
 		movement.speed = 0.0f;
@@ -179,6 +179,8 @@ public class PlatformerControllerCSharp : MonoBehaviour {
 				
 				//Debug.Log ("Number of vertices after change: " + mf1.mesh.vertexCount);
 				Destroy(oponent);
+				
+				//transform.localScale += new Vector3(2f, 2f, 1f);
 				
 				movement.walkSpeed = 3f;
 				movement.runSpeed = 5f;

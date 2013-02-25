@@ -52,6 +52,8 @@
      <Compile Include="Assets\Scripts\Boundaries.cs" />
      <Compile Include="Assets\Scripts\Breakable.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\CheckPoint.cs" />
+     <Compile Include="Assets\Scripts\KillScript.cs" />
      <Compile Include="Assets\Scripts\PlatformerControllerAbsorbing.cs" />
      <Compile Include="Assets\Scripts\PlatformerControllerCSharp.cs" />
      <Compile Include="Assets\Scripts\PlatformerControllerJumping.cs" />
