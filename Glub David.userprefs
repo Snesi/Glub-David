@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlatformerControllerCSharp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlatformerControllerCSharp.cs" Line="161" Column="1" />
+      <File FileName="Assets/Scripts/PlatformerControllerJumping.cs" Line="46" Column="3" />
+      <File FileName="Assets/Scripts/PlatformerControllerMovement.cs" Line="56" Column="3" />
+      <File FileName="Assets/Scripts/PlatformerControllerAbsorbing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Breakable.cs" Line="22" Column="42" />
+      <File FileName="Assets/Scripts/Boundaries.cs" Line="4" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
